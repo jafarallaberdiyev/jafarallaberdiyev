@@ -24,7 +24,7 @@
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**jira-pulse**](https://github.com/jafarallaberdiyev/jira-pulse) | Jira analytics dashboard: where tasks get stuck, lead time, backlog, workload. Connect your own Jira | JavaScript · SVG · Python · Jira API |
+| [**jira-pulse**](https://github.com/jafarallaberdiyev/jira-pulse) | Live Jira dashboard: analytics, calendar with holidays, precise calculators, release-post helper | Flask · Python · JavaScript · Jira API |
 | [**online_shop_backend**](https://github.com/jafarallaberdiyev/online_shop_backend) | Furniture shop: catalog, cart, orders, accounts, Stripe payments | Django · Stripe |
 | [**mini_crm**](https://github.com/jafarallaberdiyev/mini_crm) | Room-booking REST API with double-booking protection and Swagger docs | DRF · PostgreSQL · Cloudinary |
 | [**telegram-account-mcp**](https://github.com/jafarallaberdiyev/telegram-account-mcp) | MCP server that connects a Telegram account to Claude | Python · MCP · Telethon |
